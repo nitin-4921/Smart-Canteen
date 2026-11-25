@@ -271,7 +271,6 @@ SmartCanteen/
 └── README.md           # Project documentation
 ```
 
-*Note: The structure above is illustrative. Actual folders may vary depending on the implementation.*
 
 ---
 
