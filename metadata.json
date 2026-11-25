@@ -1,0 +1,6 @@
+{
+  "name": "SmartCanteen",
+  "description": "Fast, tactile campus dining ordering, live order token tracking, and vendor kitchen console.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
